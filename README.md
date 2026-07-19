@@ -9,10 +9,10 @@ This project recreates the Blog Preview Card design provided by Frontend Mentor.
 ### Screenshot
 
 ![Project Screenshot](./screenshot.png)
-s
+
 ### Links
 
-- Live Site URL: Coming soon
+- Live Site URL:  https://favour-debug-coder.github.io/blog-preview-card/
 - Solution URL: Coming soon
 
 ## Built with
