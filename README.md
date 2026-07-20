@@ -13,7 +13,7 @@ This project recreates the Blog Preview Card design provided by Frontend Mentor.
 ### Links
 
 - Live Site URL:  https://favour-debug-coder.github.io/blog-preview-card/
-- Solution URL: Coming soon
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-with-sematic-html-and-css-9PYZNyaxbu
 
 ## Built with
 
